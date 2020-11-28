@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/gabrielebranco/.local/share/virtualenvs/aita-bot-LyvL4BAF/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
