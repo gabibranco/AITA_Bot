@@ -6,13 +6,21 @@ verify_ssl = true
 [dev-packages]
 black = "*"
 mypy = "*"
-
-[packages]
+sklearn = "*"
+xgboost = "*"
+pandas = "*"
+markovify = "*"
 jupyter = "*"
 praw = "*"
+nltk = "*"
+
+[packages]
 twython = "*"
-markovify = "*"
-pronouncing = "*"
+gensim = "==3.8.3"
+numpy = "*"
+joblib = "*"
+sanic = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.8"
